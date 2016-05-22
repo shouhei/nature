@@ -1,3 +1,4 @@
+beautifulsoup4==4.4.1
 boto==2.40.0
 bz2file==0.98
 Flask==0.10.1
